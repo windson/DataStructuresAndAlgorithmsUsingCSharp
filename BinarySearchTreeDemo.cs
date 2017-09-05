@@ -4,6 +4,7 @@ namespace DataStructures
 {
     /// <summary>
     /// Binary Search Tree using linked list
+    /// Author: Pavan Navule
     /// </summary>
     class BinarySearchTreeDemo
     {
